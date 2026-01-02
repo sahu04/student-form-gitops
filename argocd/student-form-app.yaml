@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/YOUR_GITHUB_USERNAME/student-form-gitops.git
+    repoURL: https://github.com/sahu04/student-form-gitops.git
     targetRevision: main
     path: apps
   destination:
